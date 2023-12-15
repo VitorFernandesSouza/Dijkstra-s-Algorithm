@@ -20,7 +20,7 @@ Visualização:
 ![image](https://github.com/vitorFernandesSouza/Dijkstra-s-Algorithm/assets/111388245/570820ed-24ca-40a4-80e4-b93a9099d056)
 
 
-Contribuições
+# Contribuições
 Sinta-se à vontade para contribuir para o projeto. Qualquer melhoria ou sugestão é bem-vinda!
 
 Reconhecimentos
